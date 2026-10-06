@@ -84,8 +84,8 @@ html, body {
   margin: 0;
 }
 
-.couple-names {
-  font-family: var(--font-cursive);
+.nome-aniversariante {
+  font-family: 'Great Vibes', cursive;
   font-size: 3.8rem;
   color: var(--primary-color);
   line-height: 1.1;
@@ -93,15 +93,10 @@ html, body {
   font-weight: normal;
 }
 
-.couple-names span {
+.nome-aniversariante span {
   display: block;
   font-size: 2.2rem;
   margin: -5px 0;
-}
-
-/* Para o nome (ex: Helena) */
-.nome-aniversariante {
-  font-family: 'Great Vibes', cursive;
 }
 
 /* Para o texto "15 ANOS" ou títulos */
