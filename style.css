@@ -80,15 +80,6 @@ html, body {
   margin: 5px 0 20px;
 }
 
-.left-decoration {
-  position: absolute;
-  left: -60%;
-  top: -100px;
-  width: 150px;
-  height: auto;
-  pointer-events: none;
-}
-
 .names-container .couple-names {
   margin: 0;
 }
@@ -106,6 +97,18 @@ html, body {
   display: block;
   font-size: 2.2rem;
   margin: -5px 0;
+}
+
+/* Para o nome (ex: Helena) */
+.nome-aniversariante {
+  font-family: 'Great Vibes', cursive;
+}
+
+/* Para o texto "15 ANOS" ou títulos */
+.subtitulo {
+  font-family: 'Cinzel', serif;
+  font-weight: 500; /* ou 400 / 600 conforme preferir */
+  text-transform: uppercase;
 }
 
 .invitation-text {
