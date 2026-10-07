@@ -1,5 +1,5 @@
 :root {
-  --bg-color: #ecdfce;
+  --bg-color: #e5dcd0;
   --primary-color: #A8783F;
   --text-gold: #A8783F;
   --text-dark: #6E533F;
@@ -16,7 +16,7 @@
 html, body {
   width: 100%;
   min-height: 100vh;
-  background-color: #ecdfce;
+  background-color: #e5dcd0;
   font-family: var(--font-serif);
   overflow-x: hidden;
   display: flex;
